@@ -1,4 +1,4 @@
-# ZSH Theme - Preview: https://
+# ZSH Theme - Preview: https://raw.githubusercontent.com/btd1337/iguanidae-zsh-theme/master/preview/ss1.png
 
 local color_primary='035'
 
