@@ -26,7 +26,7 @@ If your theme is default - robbyrussell:
 
 ```sh
 git clone https://github.com/btd1337/iguanidae-zsh-theme
-cd https://github.com/btd1337/iguanidae-zsh-theme
+cd iguanidae-zsh-theme
 chmod +x install.sh
 ./install.sh 
 ```
